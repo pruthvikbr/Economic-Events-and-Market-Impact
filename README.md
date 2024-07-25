@@ -44,11 +44,10 @@ This project aims to:
 - ![image](https://github.com/user-attachments/assets/3ef33b1e-a8b8-417f-a69c-ea66e8fc5e0f)
 
 - ![image](https://github.com/user-attachments/assets/993b0a69-e726-4d79-b198-e1062d0306f1)
-
+Linear Regression
+![image](https://github.com/user-attachments/assets/41e6969f-acaa-4682-bb66-2b89892762ee)
 - Polynomial Regression and Linear Regression
-- ![image](https://github.com/user-attachments/assets/48068e29-abc6-4bd5-b9d9-1f867f2fbc0a)
-- ![image](https://github.com/user-attachments/assets/63a0b787-8ff9-409f-9fdd-41767859329b)
-
+![image](https://github.com/user-attachments/assets/138080c9-5a3d-4940-8214-6db93e47363a)
 
 
 
